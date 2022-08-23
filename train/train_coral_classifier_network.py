@@ -4,7 +4,7 @@
 @author: Adam Wiveion
 @contact: wux024@nenu.edu.cn
 @time: 2021/9/9 10:51
-@description: train a coral recognition network
+@description: train a coral recognition network based on PyTorch
 """
 
 from __future__ import print_function, division
