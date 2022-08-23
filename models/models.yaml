@@ -1,0 +1,50 @@
+# Some model information
+# You can import model information into the file programmatically,
+# or you can manually type the model information into the file
+Coral-DenseNet-1:
+ model_path:
+  'models/coral_densenet161.pth'
+ model_architecture:
+  'CNNs'
+ baseline:
+  'DenseNet-161'
+ train_set_acc:
+  '98.75%'
+ test_set_acc:
+  '80.58%'
+
+Coral-DenseNet-2:
+ model_path:
+  'models/coral_densenet161.pth'
+ model_architecture:
+  'CNNs'
+ baseline:
+  'DenseNet-161'
+ train_set_acc:
+  '98.75%'
+ test_set_acc:
+  '80.58%'
+
+Coral-DenseNet-3:
+ model_path:
+  'models/coral_densenet161.pth'
+ model_architecture:
+  'CNNs'
+ baseline:
+  'DenseNet-161'
+ train_set_acc:
+  '98.75%'
+ test_set_acc:
+  '80.58%'
+
+Coral-DenseNet-4:
+ model_path:
+  'models/coral_densenet161.pth'
+ model_architecture:
+  'CNNs'
+ baseline:
+  'DenseNet-161'
+ train_set_acc:
+  '98.75%'
+ test_set_acc:
+  '80.58%'
