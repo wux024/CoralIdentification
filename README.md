@@ -1,2 +1,2 @@
-# Coral_Identification
- A project that can be used for coral identification.
+# Coral identification
+A coral classification network based on PyTorch.
