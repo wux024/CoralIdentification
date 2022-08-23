@@ -53,5 +53,3 @@ print("---------standard deviation----------")
 print("Bule  channel standard deviation:", b_s)
 print("Green channel standard deviation:", g_s)
 print("Red   channel standard deviation:", r_s)
-
-
